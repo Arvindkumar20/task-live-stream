@@ -63,7 +63,7 @@ const About = () => {
           <pre className="whitespace-pre-wrap overflow-x-auto text-xs sm:text-sm leading-6">
 {`frontend/ (React + Tailwind)
   ├─ components/  (VideoPlayer, OverlayEditor, OverlayList, Navbar)
-  ├─ pages/       (LandingPage, About)
+  ├─ pages/       (LandingPage, About, Contact)
   └─ services/    (overlayApi.js)
 
 backend/ (Node + Express + MongoDB)
@@ -105,13 +105,13 @@ backend/ (Node + Express + MongoDB)
       {/* Footer CTA */}
       <div className="text-center mt-10">
         <a
-          href="https://github.com/"
+          href="https://github.com/Arvindkumar20/task-live-stream.git"
           target="_blank"
           rel="noreferrer"
           className="inline-flex items-center gap-2 rounded-xl border px-4 py-2 bg-white shadow hover:shadow-md transition"
         >
           <Github className="h-5 w-5" />
-          <span>View Source (add your repo)</span>
+          <span>View Source</span>
         </a>
       </div>
     </div>

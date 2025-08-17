@@ -34,14 +34,14 @@ const Contact = () => {
             <Mail className="h-6 w-6 text-blue-600" />
             <div>
               <h3 className="font-semibold">Email</h3>
-              <p className="text-gray-600">support@livestreamapp.com</p>
+              <p className="text-gray-600">arvindkumar8960905167@gmail.com</p>
             </div>
           </div>
           <div className="flex items-start gap-3">
             <Phone className="h-6 w-6 text-blue-600" />
             <div>
               <h3 className="font-semibold">Phone</h3>
-              <p className="text-gray-600">+91 98765 43210</p>
+              <p className="text-gray-600">+91 8960905167</p>
             </div>
           </div>
           <div className="flex items-start gap-3">
@@ -55,7 +55,7 @@ const Contact = () => {
           {/* Social Links */}
           <div className="flex gap-4 pt-4">
             <a
-              href="https://github.com/"
+              href="https://github.com/Arvindkumar20"
               target="_blank"
               rel="noreferrer"
               className="text-gray-600 hover:text-blue-600"
@@ -63,7 +63,7 @@ const Contact = () => {
               <Github className="h-6 w-6" />
             </a>
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/arvind-kumar-1466812b1"
               target="_blank"
               rel="noreferrer"
               className="text-gray-600 hover:text-blue-600"
